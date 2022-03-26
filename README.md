@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-QA Automation, https://www.linkedin.com/in/jackagency/
+QA Lead Engineer, QA Automation, https://www.linkedin.com/in/jackagency/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackagency&show_icons=true&theme=discord_old_blurple )](https://github.com/anuraghazra/github-readme-stats)
 
