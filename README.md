@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-QA Lead Engineer (manual), QA Automation, https://www.linkedin.com/in/jackagency/
+QA Lead Engineer, QA Automation, https://www.linkedin.com/in/jackagency/
 
 <!--
 **Jackagency/Jackagency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
